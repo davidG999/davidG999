@@ -1,4 +1,4 @@
-### Hi there 👋🙂
+### Hi there! <img src="/assets/wave-hand.gif" width="25px">🙂
 
 - 👍 I'm fond of JavaScript, CSS, HTML
 - 🤓 I’m currently learning JavaScript
