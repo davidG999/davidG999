@@ -1,6 +1,8 @@
-### Hi there! <img src="/assets/wave-hand.gif" width="25px">🙂
+### Hi there! <img src="/assets/wave-hand.gif" width="20px">🙂
 
-- 👍 I'm fond of JavaScript, CSS, HTML
+My name is David and I'm a front-end developer 🐥
+
+- ✨ I'm fond of JavaScript, CSS, HTML
 - 🤓 I’m currently learning JavaScript
 - 😲 Fun fact: The first computer game is generally assumed to be the game Spacewar, developed in 1962 at MIT!
 - 🌎 Find me elsewhere:
