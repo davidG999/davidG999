@@ -1,11 +1,11 @@
 ### Hi there! <img src="/assets/wave-hand.gif" width="20px">🙂
 
-My name is David and I'm a front-end developer 🐹
+My name is David and I'm a web developer 🐹
 
-- ✨ I'm fond of JavaScript, CSS, HTML
-- 🤓 I’m currently learning React 
-- 😲 Fun fact: The first computer game is generally assumed to be the game Spacewar, developed in 1962 at MIT!
-- 🌎 Find me elsewhere:
+✨ I'm fond of JavaScript, CSS, HTML \
+🤓 I’m currently learning React \
+😲 Fun fact: The first computer game is generally assumed to be the game Spacewar, developed in 1962 at MIT! \
+🌎 Find me elsewhere: 
 
 <a href="https://twitter.com/daviddev999">
   <img align="left" alt="Twitter" title="Twitter" width="30px" src="/assets/twitter.svg" />
