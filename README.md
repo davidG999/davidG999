@@ -1,6 +1,6 @@
-### Hi there! <img src="/assets/wave-hand.gif" width="30%" height="30%">🙂
+# Hi there! 👋🙂
 
-My name is David and I'm a web developer 🐹
+## My name is David and I'm a web developer 🐹
 
 ✨ I'm fond of JavaScript, CSS, HTML \
 🤓 I’m currently learning React \
