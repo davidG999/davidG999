@@ -1,4 +1,4 @@
-### Hi there! <img src="/assets/wave-hand.gif" width="20px">🙂
+### Hi there! <img src="/assets/wave-hand.gif" width="30%" height="30%">🙂
 
 My name is David and I'm a web developer 🐹
 
